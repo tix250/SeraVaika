@@ -1,0 +1,66 @@
+<!-- Cart Start -->
+<div class="cart-page">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="cart-page-inner">
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th>Produit</th>
+                                    <th>Pix</th>
+                                    <th>Acheter</th>
+                                    <th>Supprimer</th>
+                                </tr>
+                            </thead>
+                            <tbody class="align-middle">
+                                <tr>
+                                    <td>
+                                        <div class="img">
+                                            <a href="#"><img src="img/product-1.jpg" alt="Image"></a>
+                                            <p>Product Name</p>
+                                        </div>
+                                    </td>
+                                    <td>$99</td>
+                                    <td><button>Acheter</button></td>
+
+                                    <td><button><i class="fa fa-trash"></i></button></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-lg-4">
+                <div class="cart-page-inner">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="coupon">
+                                <input type="text" placeholder="Coupon Code">
+                                <button>Apply Code</button>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="cart-summary">
+                                <div class="cart-content">
+                                    <h1>Cart Summary</h1>
+                                    <p>Sub Total<span>$99</span></p>
+                                    <p>Shipping Cost<span>$1</span></p>
+                                    <h2>Grand Total<span>$100</span></h2>
+                                </div>
+                                <div class="cart-btn">
+                                    <button>Update Cart</button>
+                                    <button>Checkout</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</div>
+<!-- Cart End -->
+        
+       
